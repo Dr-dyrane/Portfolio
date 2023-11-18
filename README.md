@@ -8,7 +8,7 @@ I am Alexander Udeogaranya, a passionate Doctor and Software Enginner with a kee
 
 ## Preview
 
-![Portfolio Preview](./Images/readme-img1.png)
+![Portfolio Preview](./Images/screenshot.png)
 
 ## Technologies Used
 
