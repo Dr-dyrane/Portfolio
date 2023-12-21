@@ -19,13 +19,13 @@ function ResumeNew() {
 
 	const determineScale = () => {
 		if (width > 1200) {
-			return 2.0;
+			return 1.8;
 		} else if (width > 992) {
-			return 1.5;
+			return 1.2;
 		} else if (width > 786) {
-			return 1.0;
+			return 0.8;
 		} else {
-			return 0.6;
+			return 0.4;
 		}
 	};
 	return (
