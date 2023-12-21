@@ -52,7 +52,8 @@ button:focus {
 /* --------- */
 
 ::-webkit-scrollbar {
-  width: 7px;
+  width: 2px;
+  height: 2px;
 }
 
 /* Track */
@@ -458,12 +459,6 @@ button:focus {
   padding-left: 25px !important;
   padding-right: 25px !important;
   height: auto !important;
-}
-
-@media (min-width: 7in) {
-  .project-container {
-    min-width: 100vh;
-  }
 }
 
 .project-card-view {
