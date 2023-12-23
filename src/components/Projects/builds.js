@@ -19,13 +19,13 @@ const builds = [
       demoLink: "https://dfc.dyrane.live",
     },
     {
-        imgPath: "/Projects/med.png",
+        imgPath: "/Projects/rockspot.png",
         isBlog: false,
-        title: "Dose Calculator",
+        title: "Rockspot Shawarma",
         description:
-          "Dose Calculator is a simple React application that calculates prescription doses based on weight or age. The application allows users to input either the weight or age of a child and generates a prescription summary.",
-        ghLink: "https://github.com/Dr-dyrane/drug",
-        demoLink: "https://med.dyrane.live",
+          "An enticing Progressive Web Application (PWA) designed for Rockspot Shawarma, your one-stop destination for a delightful shawarma experience",
+        ghLink: "https://github.com/Dr-dyrane/rockspot",
+        demoLink: "https://rockspot.dyrane.live",
       },
       {
         imgPath: "/Projects/dfc.png",
