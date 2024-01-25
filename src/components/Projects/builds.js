@@ -28,13 +28,13 @@ const builds = [
         demoLink: "https://rockspot.dyrane.live",
       },
       {
-        imgPath: "/Projects/dfc.png",
+        imgPath: "/Projects/doit.png",
         isBlog: false,
-        title: "Dyrane's Farm Cast",
+        title: "Doit",
         description:
-          "Dyrane's Farm Cast is a web application designed to provide essential weather information and tailored agricultural recommendations to empower farmers and agriculture enthusiasts in making informed decisions. This MVP specification outlines the key components of the project.",
-        ghLink: "https://github.com/Dr-dyrane/dfc",
-        demoLink: "https://dfc.dyrane.live",
+          "Doit is a minimalist to-do list app that allows you to create and manage your tasks efficiently. It provides a clean and intuitive user interface, making it easy to stay organized and productive.",
+        ghLink: "https://github.com/Dr-dyrane/doit",
+        demoLink: "https://doit.dr-dyrane.tech/",
       },
   ];
   
