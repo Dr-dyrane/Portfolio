@@ -10,6 +10,15 @@ const builds = [
       demoLink: "https://med.dyrane.live",
     },
     {
+      imgPath: "/Projects/reflectify.png",
+      isBlog: false,
+      title: "Reflectify",
+      description:
+        "Reflectify is a personal journaling application designed to help individuals document their daily experiences, thoughts, and emotions. Whether you're looking to track your progress, reflect on your day, or simply jot down ideas, Reflectify provides a private space for self-expression and reflection.",
+      ghLink: "https://github.com/Dr-dyrane/Reflectify",
+      demoLink: "https://reflectify.dyrane.live",
+    },
+    {
       imgPath: "/Projects/dfc.png",
       isBlog: false,
       title: "Dyrane's Farm Cast",
@@ -39,4 +48,3 @@ const builds = [
   ];
   
   export default builds;
-  
